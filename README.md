@@ -8,7 +8,7 @@
 
 # chocolatine
 
-![Logo](logo.jpg)
+![Logo](logo-chocolatine.jpeg)
 
 **A Python SQL query builder that feels like writing Python, not SQL strings.**
 
